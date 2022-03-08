@@ -76,7 +76,7 @@ margin-right: 10px;
 /* navber end */
 .container1{
     height: 700px;
-    background-image: url(images/img/hero.jpg);
+    background-image: url(../images/img/hero.jpg);
     background-repeat: no-repeat;
     background-size:100% ;
     margin-top:90px;
